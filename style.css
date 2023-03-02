@@ -126,7 +126,7 @@
    top: 56px;
    height: 479px;
    margin-top: 56px;
-   margin-right: 50px;
+   margin-right: 60px;
 }
 
 .section-two {
@@ -140,7 +140,7 @@
 .pic-two {
    height: 374px;
    width: 516px;
-   margin-left: 65px;
+   margin-left: 70px;
    margin-top: 32px;
 }
 
@@ -151,8 +151,8 @@
    line-height: 280%;
    color: #000000;
    margin-top: 50px;
-   margin-left: 15px;
-   margin-right: 50px;
+   margin-left: 20x;
+   margin-right: 20px
 }
 
 .p {
@@ -165,8 +165,8 @@
    height: 180px;
    letter-spacing: 0.5px;
    text-align: justify;
-   margin-left: 16px;
-   margin-right: 59px;
+   margin-left: 1px;
+   margin-right: 100px;
 }
 
 .hire-me {
@@ -182,7 +182,7 @@
    text-decoration: none;
    color: #FFFFFF;
    background: #155EEF;
-   margin-left: 15px;
+   margin-left: 5px;
    margin-top: 50px; 
    line-height: 550%; 
 }
@@ -213,7 +213,7 @@ footer {
    display: flex;
    justify-content: space-between;
    align-items: center;
-   padding: 5px 50px;
+   padding: 10px 50px;
    gap: 230px;
 }
 
@@ -237,5 +237,4 @@ footer {
    font-size: 24px;
    line-height: 150%;
    color: #FFFFFF;
-   margin-left: 80px;
 }
